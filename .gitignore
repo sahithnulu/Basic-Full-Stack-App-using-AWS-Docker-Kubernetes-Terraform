@@ -1,0 +1,12 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Local env files
+backend/.env
+frontend/.env
+
+# SQLite data folder (your .db files)
+backend/data/
+
+.vscode
